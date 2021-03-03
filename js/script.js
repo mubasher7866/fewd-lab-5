@@ -1,9 +1,9 @@
 var restaurant = {
-    // Object properties
+
     name: 'Food Panda',
-    tables: 100,
-    booked: 33,
-    fireplace: true,
+    tables: 90,
+    booked: 39,
+    delivery: true,
     tableTypes: ['single', 'couple', 'group', 'party'],
     checkAvailablity: function() {
         return this.tables - this.booked;

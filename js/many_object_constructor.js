@@ -7,7 +7,7 @@ function Restaurant(name, tables, booked){
     };
 }
 
-var BoxtyHouseRestaurant = new Restaurant('Boxty House', 128, 25);
-var DigInRestaurant = new Restaurant('Dig In', 76, 14 )
+var BoxtyHouseRestaurant = new Restaurant('Boxty House', 118, 45);
+var DigInRestaurant = new Restaurant('Dig In', 56, 24 )
 
 console.log(BoxtyHouseRestaurant, DigInRestaurant);

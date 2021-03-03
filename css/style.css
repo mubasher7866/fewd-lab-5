@@ -13,8 +13,9 @@ body {
 
 h2 {
   margin: 1.75em 0 0 0;
-  color: #adffda; 
-  font-weight: normal;}
+  color:  #ffb87a; 
+  font-size: xx-large;
+  font-weight: bold;}
 
 h2 + p {
   margin: 0.25em 0 0 0;}
@@ -23,14 +24,10 @@ p + p {
 p + h2 {
   margin: 10px 0 0 0;}
 
-/* message under the logo */
 
-
-
-/* black bar across the right hand side of the page */
 
 #info {
-  background-color: #c95b33;
+  background-color: #ff4d88;
   color: #fff;
   width:500px;
   padding: 0 15px;
@@ -61,7 +58,7 @@ p + h2 {
 
 #tables {
   font-size: 440%;
-  color: #ffb87a;
+  color: white;
   display: inline-block;
   margin: 0;}
 
@@ -71,5 +68,10 @@ p + h2 {
   display: inline-block;
   padding-top: 100px;
   margin: 0;}
+
+  #pandaIcon{
+      height: 20pt;
+      width: 20pt;
+  }
 
 
